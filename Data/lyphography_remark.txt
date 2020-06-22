@@ -1,0 +1,20 @@
+1.   class: normal find, metastases, malign lymph, fibrosis
+2n.  lymphatics: normal, arched, deformed, displaced
+3n.  block of affere: no, yes
+4n.  bl. of lymph. c: no, yes
+5n.  bl. of lymph. s: no, yes
+6n.  by pass: no, yes
+7n.  extravasates: no, yes
+8n.  regeneration of: no, yes
+9n.  early uptake in: no, yes
+10o. lym.nodes dimin: 0-3
+1-3
+11o. lym.nodes enlar: 1-4
+12n. changes in lym.: bean, oval, round
+13n. defect in node: no, lacunar, lac. marginal, lac. central
+14n. changes in node: no, lacunar, lac. margin, lac. central
+15n. changes in stru: no, grainy, drop-like, coarse, diluted, reticular, stripped, faint,
+16n. special forms: no, chalices, vesicles
+17n. dislocation of: no, yes
+18n. exclusion of no: no, yes
+19o. no. of nodes in: 0-9, 10-19, 20-29, 30-39, 40-49, 50-59, 60-69, >=70
