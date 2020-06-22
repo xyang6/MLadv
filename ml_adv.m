@@ -39,9 +39,7 @@ eps   = pars.p-pars.eps;
 %record
 O_trace = zeros(n_max,1);
 T_trace = zeros(n_max,1);
-T_size  = zeros(n_max,1);
 D_trace = zeros(n_max,1);
-D_size  = zeros(n_max,1);
 M_trace = zeros(n_max,1);
 M_norm  = zeros(n_max,1);
 
